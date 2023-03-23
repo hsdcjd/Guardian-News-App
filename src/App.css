@@ -1,0 +1,35 @@
+/* @font-face {
+  font-family: "Guardian Egyptian";
+  src: url("/static/fonts/guardian-egyptian.woff2") format("woff2"),
+    url("/static/fonts/guardian-egyptian.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+} */
+
+/* .logo {
+  width: 100%;
+  height: auto;
+} */
+/* h1 {
+  font-family: "georgian", sans-serif;
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  font-style: italic;
+  background-color: #E7E7E7;
+} */
+
+/* 
+h6 {
+  font-family: "georgian", sans-serif;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    font-style: normal;
+    background-color: darkslateblue;
+} */
+
+.App {
+  background-color: #E7E7E7;
+}
+

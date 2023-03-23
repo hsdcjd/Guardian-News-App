@@ -1,0 +1,19 @@
+
+
+h1 {
+    font-family: "georgian", sans-serif;
+    color: #333333;
+    font-size: 1.25em;
+    font-weight: bold;
+    font-style: italic;
+    background-color: #E7E7E7;
+    padding-left: 1.5em;
+}
+
+.logo {
+    display: block;
+    width: 95%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}

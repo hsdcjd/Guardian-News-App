@@ -1,0 +1,29 @@
+.single {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.single > img {
+    max-width: 95%;
+    height: auto;
+    border-radius: 5%;
+    box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.6);
+    transform: scale(1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.single > h2 {
+    text-align: justify right;
+    font-size: 1.5em;
+    color: navy;
+    max-width: 500px;
+}
+
+@media (max-width: 768px){
+    .single > h2{
+        font-size: 1.0em;
+    }
+}
+
