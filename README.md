@@ -1,5 +1,5 @@
 
-[_[please check the package.json for the dependencies and installation requirements_
+_[please check the package.json for the dependencies and installation requirements_
 
 _navigate to index.js and open in your terminal_
 
